@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Aug 02 16:29:29 EAT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Education\\USIU\\PROJECTS\\Test\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
